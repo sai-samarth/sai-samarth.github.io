@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://sai-samarth.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sai-samarth.github.io/sitemap.xml
