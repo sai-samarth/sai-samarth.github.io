@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Building AI to Augment Abilities, Not Replace Identities.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: False # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
+
 ---
+I am a master’s student at the `University of Edinburgh`, exploring the fundamentals of `Natural Language Processing`, `Speech Modelling`, and `Machine Learning`. Outside of class, I am taking on projects and professional courses on the practical applications of `GenAI`, with some of the most exciting areas being `Retrieval-Augmented Generation`, `Vision LLMs`, and automating workflows with `AI Agents`.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before this, I graduated with Honors in `Computer Science and Engineering` from `PES University`, specializing in `Machine Intelligence` and `Data Science`. My undergraduate thesis focused on 'Generative AI for Virtual Diagnostic Training in Medical Education', where I developed a virtual patient simulation prototype using `Virtual Reality (VR)` and `GenAI` to help early-stage medical students get hands-on diagnostic experience.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’ve been fortunate to work on some thrilling projects during my internships and roles, leveraging AI across a range of domains—from predicting stock market trends in `finance` to developing assistive learning technologies in `medicine`, and even automating document workflows in `banking`. It’s been amazing to see how AI can applied in so many different challenges and make a real difference in each one!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+But life isn’t all about breaking your head over why the loss won’t converge. I’m also a sucker for `video games`, `anime`, and `trekking`—because who doesn’t love the view from the top? I’m currently looking for research or developer roles in `Applied ML` and `GenAI` starting September 2025. End goal: work in deep tech at the frontier, contributing to the development of the latest models! But hey, that’s still a long way off.
+
+If you’re into GenAI, collaboration opportunities, or just want to swap anime recommendations, let’s connect! :sparkles:
+
+(Psst... still working on building my profile!)
+
