@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -391,17 +391,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-first-part-of-my-work-at-iisc-has-been-published-at-future-generation-computer-systems",
           title: 'The first part of my work at IISc has been published at Future...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -436,6 +426,36 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-object-detection-with-depth-estimation",
+          title: 'Object Detection with Depth Estimation',
+          description: "Prototype of detecting the closest outdoor object with monocular lens.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/depth/";
+            },},{id: "projects-draggan",
+          title: 'DragGAN',
+          description: "Using custom images for DragGAN.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dragGAN/";
+            },},{id: "projects-efficient-querying-of-file-system-changes",
+          title: 'Efficient querying of file system changes',
+          description: "Prototype software to efficiently process file modifications.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hpeCTY/";
+            },},{id: "projects-marker",
+          title: 'markER',
+          description: "Entity-Relation diagram generator from structured text.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/markER/";
+            },},{id: "projects-face-mask-detection",
+          title: 'Face Mask Detection',
+          description: "Face Mask detection for COVID using CNNs.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/maskDet/";
+            },},{id: "projects-mnist-cnn",
+          title: 'MNIST CNN',
+          description: "Simple CNN classifier for hand written digits.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mnistCNN/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
