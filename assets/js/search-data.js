@@ -446,8 +446,8 @@ ninja.data = [{
           description: "Streamlit application to interactively chat with PDF documents.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pdfChat/";
-            },},{id: "projects-automated-time-series-predictor",
-          title: 'Automated Time-Series Predictor',
+            },},{id: "projects-sdxl-web-app",
+          title: 'SDXL Web App',
           description: "Web-based application for exploratory data analysis and time series forecasting.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sdxlWeb/";
