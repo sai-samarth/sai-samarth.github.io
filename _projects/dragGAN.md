@@ -3,7 +3,8 @@ layout: page
 title:  DragGAN
 description: Using custom images for DragGAN.
 img: assets/img/DragGAN.gif
-category: work
+importance: 2
+category:
 related_publications: False
 ---
 

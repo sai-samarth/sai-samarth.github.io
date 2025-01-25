@@ -2,9 +2,9 @@
 layout: page
 title: Object Detection with Depth Estimation
 description: Prototype of detecting the closest outdoor object with monocular lens.
-img: assets/img/studn-dbms.png
+img: assets/img/depthEsti.jpg
 importance: 2
-category: work
+category:
 related_publications: False
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  Efficient querying of file system changes
+title: Efficient Querying of File System Changes
 description: Prototype software to efficiently process file modifications.
-img: assets/img/studn-dbms.png
+img: assets/img/hpeCTY.png
 importance: 2
-category: work
+category:
 related_publications: False
 ---
 
