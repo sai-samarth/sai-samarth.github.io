@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Automated Time-Series Predictor
+title: SDXL Web App
 description: Web-based application for exploratory data analysis and time series forecasting.
-img: assets/img/SDXLWeb.png
+img: assets/img/sdxlWebhome.png
 importance: 1
 category:
 related_publications: False
