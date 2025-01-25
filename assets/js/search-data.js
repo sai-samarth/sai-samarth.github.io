@@ -391,53 +391,33 @@ ninja.data = [{
           section: "News",},{id: "news-the-first-part-of-my-work-at-iisc-has-been-published-at-future-generation-computer-systems",
           title: 'The first part of my work at IISc has been published at Future...',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          section: "News",},{id: "projects-audio-mood-classifier",
+          title: 'Audio Mood Classifier',
+          description: "Automated music mood classification using CNNs.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/audioClass/";
+            },},{id: "projects-automated-time-series-predictor",
+          title: 'Automated Time-Series Predictor',
+          description: "Web-based application for exploratory data analysis and time series forecasting.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/autoTime/";
             },},{id: "projects-object-detection-with-depth-estimation",
           title: 'Object Detection with Depth Estimation',
           description: "Prototype of detecting the closest outdoor object with monocular lens.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/depth/";
+              window.location.href = "/projects/depthEstim/";
             },},{id: "projects-draggan",
           title: 'DragGAN',
           description: "Using custom images for DragGAN.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dragGAN/";
+            },},{id: "projects-falcon-40b",
+          title: 'Falcon 40B',
+          description: "Finetuning Falcon 40B on a subset of the Open Assistant dataset.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/falconFine/";
             },},{id: "projects-efficient-querying-of-file-system-changes",
-          title: 'Efficient querying of file system changes',
+          title: 'Efficient Querying of File System Changes',
           description: "Prototype software to efficiently process file modifications.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hpeCTY/";
@@ -456,6 +436,26 @@ ninja.data = [{
           description: "Simple CNN classifier for hand written digits.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mnistCNN/";
+            },},{id: "projects-neural-networks-implemented-from-scratch",
+          title: 'Neural Networks Implemented from Scratch',
+          description: "Building a basic feedforward neural network from scratch for classifying handwritten digits.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nnScratch/";
+            },},{id: "projects-chat-with-your-pdf",
+          title: 'Chat with Your PDF',
+          description: "Streamlit application to interactively chat with PDF documents.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pdfChat/";
+            },},{id: "projects-automated-time-series-predictor",
+          title: 'Automated Time-Series Predictor',
+          description: "Web-based application for exploratory data analysis and time series forecasting.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sdxlWeb/";
+            },},{id: "projects-twitter-sentiment-classification",
+          title: 'Twitter Sentiment Classification',
+          description: "Twitter comment sentiment classification into Hate/Non-Hate.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/twitterSenti/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
